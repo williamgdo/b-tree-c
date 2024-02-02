@@ -10,9 +10,9 @@ The exercise in question is a computer parts registration system, in which a pro
 - List all products by pre-order printing of the primary or secondary B-tree;
 - View the data file;
 - View the primary index file;
-- View the secondary index file
+- View the secondary index file.
 
-## Em Português Brasileiro:
+## 🇧🇷 Em Português Brasileiro:
 
 O exercício em questão é um sistema de cadastro de peças de computador, no qual um produto é composto por código, nome ou modelo, marca, data de registro, ano de lançamento, preço base, desconto e categorias. Para o exercício em questão, nenhum arquivo ficará salvo em disco, e os dados e índices serão simulados em strings, criados na inicialização do programa e manipulados na memória RAM até o término do programa. O sistema possui funções que permitem a um usuário:
 
